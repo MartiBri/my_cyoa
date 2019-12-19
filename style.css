@@ -1,0 +1,69 @@
+body{
+  background-color:black;
+  color: white;
+  border-style: solid;
+  border-color:red;
+}
+
+
+#BKM3{
+   font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif"; font-size: 40px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+}
+
+
+
+#gender{
+  text-align:center;
+
+
+
+}
+
+
+#Welcome{
+  margin: auto;
+  width: 50%;
+  border: 3px solid white;
+  padding: 10px;
+  font-family:'Lato',Helvetica,Arial,Lucida,sans-serif;
+}
+
+#NameBox{
+   margin: auto;
+  width: 50%;
+  border: 3px solid white;
+  padding: 5px;
+
+}
+
+#start{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif"; 
+  font-size: 30px; 
+  font-style: normal; 
+  font-variant: normal; 
+  font-weight: 700; 
+  line-height: 26.4px;
+}
+
+#RadioButton{
+  text-align:center;
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif"; 
+  font-size: 40px; 
+  font-style: normal;
+  font-variant: normal; 
+  font-weight: 700;
+}
+
+#narrative2{
+  text-align:center;
+  font-family: OCR A Std, monospace;
+  font-size: 30px;
+
+
+
+}
+
+#deadMan{
+  color: red;
+}
